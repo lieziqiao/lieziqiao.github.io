@@ -1697,10 +1697,10 @@ pre[class*='language-']:hover .copy-btn {
   left: 0;
   width: 20rem;
   background-color: #fff;
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn@master/img/bg/alpha-stars-timing-1.webp");
+  background-image: url("/images/古月衣.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom 1rem center;
+  background-position: bottom 3rem center;
   text-align: center;
   z-index: 10;
   transition-property: all;
@@ -1915,7 +1915,7 @@ pre[class*='language-']:hover .copy-btn {
     color: var(--hty-text-color);
   }
   :root:not([data-user-color-scheme]) body::before {
-    background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+    background-image: url("/images/张子枫和小狗.jpeg");
   }
   :root:not([data-user-color-scheme]) .char {
     background-color: rgba(0,0,0,0.5);
@@ -1991,7 +1991,7 @@ pre[class*='language-']:hover .copy-btn {
   color: var(--hty-text-color);
 }
 [data-user-color-scheme='dark'] body::before {
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+  background-image: url("/images/张子枫和小狗.jpeg");
 }
 [data-user-color-scheme='dark'] .char {
   background-color: rgba(0,0,0,0.5);
